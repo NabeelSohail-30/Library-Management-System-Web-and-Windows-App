@@ -68,3 +68,38 @@ E:\Programming-Web-DB\DotNet\LMSProject\LMSWebApp\bin\Microsoft.AI.Web.xml
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWebApp\bin\Microsoft.AI.WindowsServer.xml
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWebApp\bin\Microsoft.ApplicationInsights.xml
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\ApplicationInsights.config
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\csc.exe
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\vbc.exe
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\LMSWebApp.dll.config
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\LMSWebApp.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\LMSWebApp.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\LMS.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.Web.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\LMS.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.Web.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\obj\Debug\LMSWebApp.csprojResolveAssemblyReference.cache
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\obj\Debug\LMSWebApp.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWebApp\obj\Debug\LMSWebApp.pdb

@@ -3,3 +3,8 @@ E:\Programming-Web-DB\DotNet\LMSProject\LMS\bin\Debug\LMS.dll
 E:\Programming-Web-DB\DotNet\LMSProject\LMS\bin\Debug\LMS.pdb
 E:\Programming-Web-DB\DotNet\LMSProject\LMS\obj\Debug\LMS.dll
 E:\Programming-Web-DB\DotNet\LMSProject\LMS\obj\Debug\LMS.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMS\bin\Debug\LMS.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMS\bin\Debug\LMS.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMS\obj\Debug\LMS.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMS\obj\Debug\LMS.pdb

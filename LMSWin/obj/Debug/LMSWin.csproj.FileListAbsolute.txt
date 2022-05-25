@@ -34,3 +34,22 @@ E:\Programming-Web-DB\DotNet\LMSProject\LMSWin\bin\Debug\LMSWin.exe
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWin\bin\Debug\LMSWin.pdb
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWin\bin\Debug\LMS.dll
 E:\Programming-Web-DB\DotNet\LMSProject\LMSWin\bin\Debug\LMS.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\bin\Debug\LMSWin.exe.config
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.exe
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\bin\Debug\LMSWin.exe
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\bin\Debug\LMSWin.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\bin\Debug\LMS.dll
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\bin\Debug\LMS.pdb
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.csprojResolveAssemblyReference.cache
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.BooksDetail.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.BooksDetailAdd.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.BooksDetailDelete.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.BooksDetailEdit.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.BooksDetailView.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.Dashboard.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.Footer.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.Header.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.LoginForm.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.Properties.Resources.resources
+E:\Projects\Completed\VS 2015\LMSProject_C#\LMSWin\obj\Debug\LMSWin.csproj.GenerateResource.Cache
